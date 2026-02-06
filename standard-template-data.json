@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-02-06T01:29:21.955Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-02-06T01:35:11.431Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "242476ad-1be9-4395-b321-7398211db109",
     "homepageId": "5d43ec1a-e7ea-4042-86f9-6d63afe46027"
@@ -312,15 +312,15 @@
                     "isSelected": true
                   },
                   {
-                    "id": "9d00b3c3-9020-4c56-9e62-ecf25bae4fc2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_hero/1770281546170-rq297uergsd.jpg",
+                    "id": "49e0c5ba-5b85-4c11-8db7-2bf227b96272",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_hero/1770337327277-k0z4dv5kveb.jpg",
                     "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "49e0c5ba-5b85-4c11-8db7-2bf227b96272",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_hero/1770337327277-k0z4dv5kveb.jpg",
+                    "id": "c8ad446d-4a21-4a6a-9f42-4ae6a5583679",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_hero/1770341637589-jqyijx4a2l.jpg",
                     "sortOrder": 6,
                     "description": "",
                     "isSelected": true
@@ -366,7 +366,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "신축 단독 독채 풀빌라, 강릉 스테이 그곳.\n프라이빗 수영장과 야외 바베큐로 여유를 즐기고,\n동해 바다와 좋은 인프라를 가까이에서 누려보세요."
+                "description": "\n신축 단독 독채 풀빌라, 강릉 스테이 그곳.\n프라이빗 수영장에서 오롯이 나만의 시간을 보내고,\n야외 바베큐 공간에서 여유로운 식사를 즐기며\n동해 바다와 편리한 인프라를 가까이에서 누려보세요."
               },
               "gallery": {
                 "title": "스테이그곳 Preview",
@@ -507,7 +507,7 @@
                   {
                     "id": "a03373ca-866a-45c6-95b3-5022bce24c0a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/reservation_hero/1770341331384-xpmvi25s829.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
