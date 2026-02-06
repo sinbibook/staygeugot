@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-02-06T01:08:01.153Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-02-06T01:13:44.406Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "242476ad-1be9-4395-b321-7398211db109",
     "homepageId": "5d43ec1a-e7ea-4042-86f9-6d63afe46027"
@@ -202,6 +202,56 @@
         }
       ],
       "displayOrder": 2
+    },
+    {
+      "id": "b2444905-8964-49c4-967e-bf63f5ee25fe",
+      "name": "그곳 셋 (독채풀빌라)",
+      "description": "",
+      "roomInfo": "복층독채형:\n- 1층: 거실(킹1)+주방+화장실1+야외풀\n- 2층 : 침대룸A(싱글2)+화장실1",
+      "group": null,
+      "size": 92.56,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 2,
+        "livingRoom": 0
+      },
+      "bedTypes": [
+        "퀸 베드",
+        "싱글 베드"
+      ],
+      "amenities": [
+        "테라스",
+        "무료 WiFi",
+        "스마트 TV",
+        "에어컨",
+        "냉장고",
+        "헤어드라이어",
+        "조리도구",
+        "식기류",
+        "전기포트",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "OTT",
+        "개별바비큐",
+        "풀빌라"
+      ],
+      "roomViews": [],
+      "roomStructures": [
+        "복층",
+        "독채"
+      ],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 3
     }
   ],
   "homepage": {
@@ -284,7 +334,7 @@
                   {
                     "id": "65939d59-666a-4e1a-9b77-5e30b69f7a97",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_closing/1770340075689-y1gf34qtaz.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
@@ -335,22 +385,22 @@
                     "isSelected": true
                   },
                   {
+                    "id": "ad982044-dab1-4157-97ec-873e9990d135",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_gallery/1770340075689-lpxssuqr2un.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "b109bc88-18ec-443b-af89-83ee78a2db59",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_gallery/1770340075689-mizo74aipm.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "42b8a700-8b9f-4798-94a6-fd6ca283f423",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_gallery/1770340075689-4wi5xok8q09.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "ad982044-dab1-4157-97ec-873e9990d135",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_gallery/1770340075689-lpxssuqr2un.jpg",
                     "sortOrder": 4,
                     "description": "",
                     "isSelected": true
@@ -1076,6 +1126,10 @@
               "category": "roomtype_exterior"
             }
           ]
+        },
+        {
+          "id": "b2444905-8964-49c4-967e-bf63f5ee25fe",
+          "images": []
         }
       ]
     },
