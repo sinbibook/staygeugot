@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-02-06T01:57:23.809Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-02-06T02:00:30.095Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "242476ad-1be9-4395-b321-7398211db109",
     "homepageId": "5d43ec1a-e7ea-4042-86f9-6d63afe46027"
@@ -291,8 +291,8 @@
                     "isSelected": true
                   },
                   {
-                    "id": "3211dfd4-9dd4-4806-8ded-8b54d0c7cec1",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_hero/1770281546170-49taimgltj4.jpg",
+                    "id": "aa7a7e31-f6c3-4c25-9e66-ad9582da3693",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/index_hero/1770343224363-fe57pabou1f.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
@@ -665,8 +665,8 @@
               "category": "roomtype_thumbnail"
             },
             {
-              "id": "594e4e08-067c-497b-88a5-d96511b7e601",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/roomtype_interior/1770280359413-3ymy9gowkob.jpg",
+              "id": "1b34f31f-8ae5-460b-8bbf-f94eb8baa2ed",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/roomtype_interior/1770280359413-aavm0vtrdqc.jpg",
               "sortOrder": 0,
               "description": "",
               "isSelected": true,
@@ -683,8 +683,8 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "1b34f31f-8ae5-460b-8bbf-f94eb8baa2ed",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/roomtype_interior/1770280359413-aavm0vtrdqc.jpg",
+              "id": "594e4e08-067c-497b-88a5-d96511b7e601",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/roomtype_interior/1770280359413-3ymy9gowkob.jpg",
               "sortOrder": 2,
               "description": "",
               "isSelected": true,
