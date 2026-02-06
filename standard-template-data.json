@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-02-06T01:13:44.406Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-02-06T01:29:03.627Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "242476ad-1be9-4395-b321-7398211db109",
     "homepageId": "5d43ec1a-e7ea-4042-86f9-6d63afe46027"
@@ -329,7 +329,7 @@
                 "description": " "
               },
               "closing": {
-                "title": "",
+                "title": "스테이 그곳에서 쉼의 결을 완성하세요",
                 "images": [
                   {
                     "id": "65939d59-666a-4e1a-9b77-5e30b69f7a97",
@@ -338,7 +338,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "essence": {
                 "title": "Your Moment at Stay Geugot",
@@ -368,7 +369,7 @@
                 "description": "신축 단독 독채 풀빌라, 강릉 스테이 그곳.\n프라이빗 수영장과 야외 바베큐로 여유를 즐기고,\n동해 바다와 좋은 인프라를 가까이에서 누려보세요."
               },
               "gallery": {
-                "title": "",
+                "title": "스테이그곳 Preview",
                 "images": [
                   {
                     "id": "85ce3af3-c10e-43d1-a378-84a922a1ddeb",
@@ -412,7 +413,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "스테이그곳에서 다채로운 휴식의 순간을 미리 만나보세요."
               },
               "signature": {
                 "title": "",
@@ -425,8 +427,16 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "오시는 길",
+                "images": [
+                  {
+                    "id": "533bf7e4-0433-425d-b78e-25d22b5f426c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/directions_hero/1770341331384-20f3x29cpkx.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": " ",
@@ -439,11 +449,50 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": [],
-                "description": "독채 풀빌라로 프라이빗한 휴식을 누릴 수 있으며,\n주변 인프라가 잘 갖춰져 있어 동해 해변을 즐기기에도 좋습니다.\n야외 바베큐 공간에서는 감성적인 분위기 속에서\n여유로운 식사 시간을 보낼 수 있습니다.\n미니 수영장이 마련되어 있어 물놀이의 즐거움을 더하고,\n온수풀 이용이 가능해 사계절 내내 편안하게 이용하실 수 있습니다."
+                "title": " ",
+                "images": [
+                  {
+                    "id": "5ac789db-0d2e-4dd3-b3f7-9b426044acd5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/main_hero/1770340865557-o5a8ib2moba.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "독채 풀빌라로 프라이빗한 휴식을 누릴 수 있으며,\n주변 인프라가 잘 갖춰져 있어\n동해 해변을 즐기기에도 좋습니다.\n야외 바베큐 공간에서는 감성적인 분위기 속에서\n여유로운 식사 시간을 보낼 수 있습니다.\n미니 수영장이 마련되어 있어\n물놀이의 즐거움을 더하고,\n온수풀 이용이 가능해 사계절 내내\n편안하게 이용하실 수 있습니다."
               },
-              "about": []
+              "about": [
+                {
+                  "title": " 신축 단독 독채 풀빌라",
+                  "images": [
+                    {
+                      "id": "93d4190f-d7d3-4d04-be9c-b319e541c413",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/main_about/1770341167573-1pux29jfih5.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "9e096724-268a-4335-b848-9db11f0a9e97"
+                    }
+                  ],
+                  "blockId": "9e096724-268a-4335-b848-9db11f0a9e97",
+                  "description": "단독 독채로 이루어진 풀빌라에서\n누구의 방해도 없는 온전한 휴식을 즐기고,\n프라이빗 수영장과 바베큐 공간에서\n우리만의 여유로운 시간을 완성하세요."
+                },
+                {
+                  "title": "신축 건물에서의 깔끔한 휴식",
+                  "images": [
+                    {
+                      "id": "25eea52d-c858-451a-991c-6db600796a01",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/main_about/1770341167573-4hqy1f46lio.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "a6a9ae67-dded-4c0f-bfb6-f1fc7d424ae7"
+                    }
+                  ],
+                  "blockId": "a6a9ae67-dded-4c0f-bfb6-f1fc7d424ae7",
+                  "description": "새롭게 완성된 공간에서 느끼는 편안함,\n세련된 설계와 정돈된 분위기가 \n머무는 시간에 깊이를 더하고\n첫 방문부터 만족스러운 쉼을 선사합니다."
+                }
+              ]
             }
           ]
         },
@@ -454,12 +503,20 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "a03373ca-866a-45c6-95b3-5022bce24c0a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/reservation_hero/1770341331384-xpmvi25s829.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
-                "title": "",
+                "title": "   ",
                 "images": [],
-                "description": ""
+                "description": " "
               }
             }
           ]
@@ -477,16 +534,16 @@
             "family": "Pretendard"
           },
           "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap",
-            "key": "sourgummy",
+            "cdn": "https://fonts.cdnfonts.com/css/raqillas",
+            "key": "raqillas",
             "woff2": null,
-            "family": "Sour Gummy"
+            "family": "Raqillas"
           },
           "koMain": {
-            "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
-            "key": "notoserifKR",
-            "woff2": null,
-            "family": "Noto Serif KR"
+            "cdn": null,
+            "key": "chosunilbomyungjo",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff",
+            "family": "ChosunIlboMyungjo"
           }
         },
         "color": {
@@ -505,9 +562,17 @@
             "category": "property_thumbnail"
           },
           {
+            "id": "97fd6262-8413-442c-9c55-04461780d7e8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/property_exterior/1770336860603-rdh9aql02a.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
             "id": "86fb6430-97ca-4257-a151-76b5e7e535fe",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/property_exterior/1770336860603-j4ew5hz5ib.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -515,14 +580,6 @@
           {
             "id": "25662ad2-7086-42df-bc02-0dcf6e1e028c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/property_exterior/1770336860603-qk8yivngyp.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "category": "property_exterior"
-          },
-          {
-            "id": "97fd6262-8413-442c-9c55-04461780d7e8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/5d43ec1a-e7ea-4042-86f9-6d63afe46027/property_exterior/1770336860603-rdh9aql02a.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
