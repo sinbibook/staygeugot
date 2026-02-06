@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-02-06T02:17:56.872Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-02-06T05:37:41.527Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "242476ad-1be9-4395-b321-7398211db109",
     "homepageId": "5d43ec1a-e7ea-4042-86f9-6d63afe46027"
@@ -23,7 +23,11 @@
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "강원특별자치도",
     "city": "강릉시",
-    "amenities": [],
+    "amenities": [
+      "WiFi",
+      "수영장",
+      "바베큐시설"
+    ],
     "nearbyAttractions": [
       "해변",
       "산",
@@ -65,23 +69,132 @@
       "commissionRate": 0,
       "securityDeposit": 0
     },
-    "facilities": [],
-    "refundPolicies": [
+    "facilities": [
       {
-        "refundProcessingDays": 7,
-        "refundRate": 100
+        "id": "892459cb-494a-4613-b871-74d82bd1b2ac",
+        "name": "개별바베큐",
+        "description": "개별 테라스에서 바베큐를 즐겨보세요. ",
+        "usageGuide": "[개별바베큐]\n- 바베큐 구성: 숯,그릴,토치,집게\n- 비용: 30,000원 (1박 기준/현장결제)\n※ 이용시간 제한이 없으나 10시 이후엔 소음에 주의 부탁드립니다.\n※ 기상상황에 따라 이용이 어려우실 수 있습니다.",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "8c21d7e3-6e90-4c47-9451-dd92bb5b505b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/892459cb-494a-4613-b871-74d82bd1b2ac/main/1770356201718-63demymp30q.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "13e9f4b5-d531-41b6-bfb5-33d67b25355e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/892459cb-494a-4613-b871-74d82bd1b2ac/main/1770356201717-2tkkch215nv.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "fa99813c-c351-4f6d-977a-6df4c327fb8e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/892459cb-494a-4613-b871-74d82bd1b2ac/main/1770356201718-sfv90beqksh.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e4ece850-b23a-4b61-a471-83b2d891a103",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/892459cb-494a-4613-b871-74d82bd1b2ac/main/1770356201716-vlml3fs4drq.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "bdc4c559-c294-4316-81bd-05025efeceb6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/892459cb-494a-4613-b871-74d82bd1b2ac/main/1770356201718-i8ae6w5rnx.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
-        "refundProcessingDays": 5,
+        "id": "464d2c63-d2a8-42ad-ac49-888739670c9f",
+        "name": "개별온수풀",
+        "description": "개별 온수풀에서 즐기는 수영 ",
+        "usageGuide": "[개별온수풀]\n- 4계절 이용 가능\n- 이용 비용 : 50,000원 (1박 기준/현장결제)\n※ 바닥이 미끄러워 안전사고에 주의 부탁드립니다.\n※ 온수 풀 이용 시 입욕제(펄,젤리탕) 사용 금지\n※ 풀 내에서 음식물 섭취 절대 금지\n※ 사용 후 배수뚜껑은 꼭 뺴주시길 부탁드립니다.",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "4f7058dd-d7f3-4192-a0d4-264007f2224e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/464d2c63-d2a8-42ad-ac49-888739670c9f/main/1770356203277-04k1fi85nc77.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "26a14af2-c0a6-4af3-a221-e90a86a22e86",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/464d2c63-d2a8-42ad-ac49-888739670c9f/main/1770356203278-0r6ycgdj3lgr.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "5fdd03a7-b11f-40f2-8abc-1e2bbd7db571",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/464d2c63-d2a8-42ad-ac49-888739670c9f/main/1770356203277-z411pyz2mzh.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "94441ecf-d5fb-4e33-a91e-8d7b14e57205",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/464d2c63-d2a8-42ad-ac49-888739670c9f/main/1770356203274-4ksqtn84aaa.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "7219c4fc-7cfd-4f9f-80af-b9b816cd9f9f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/464d2c63-d2a8-42ad-ac49-888739670c9f/main/1770356246210-rtqk9nunwa.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
         "refundRate": 80
       },
       {
-        "refundProcessingDays": 3,
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
         "refundRate": 50
       },
       {
-        "refundProcessingDays": 1,
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
         "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
       },
       {
         "refundProcessingDays": 0,
