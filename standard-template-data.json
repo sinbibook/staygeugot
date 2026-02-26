@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-02-23T06:23:07.430Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-02-26T03:26:18.113Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "242476ad-1be9-4395-b321-7398211db109",
     "homepageId": "5d43ec1a-e7ea-4042-86f9-6d63afe46027"
@@ -225,6 +225,7 @@
       "name": "그곳 하나 (독채풀빌라)",
       "description": "",
       "roomInfo": "복층독채형:\n- 1층: 거실(킹1)+주방+화장실1+야외풀\n- 2층 : 침대룸A(싱글2)+화장실1",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 24개월 이상 1인당 30,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 92.56,
       "baseOccupancy": 2,
@@ -267,54 +268,6 @@
         }
       ],
       "displayOrder": 1
-    },
-    {
-      "id": "85aea395-925c-4145-915f-66093e7e5229",
-      "name": "그곳 둘 (독채풀빌라)",
-      "description": "",
-      "roomInfo": "복층독채형:\n- 1층: 거실(킹1)+주방+화장실1+야외풀\n- 2층 : 침대룸A(싱글2)+화장실1",
-      "group": null,
-      "size": 92.56,
-      "baseOccupancy": 2,
-      "maxOccupancy": 4,
-      "totalRoomCount": {
-        "bedroom": 2,
-        "bathroom": 2,
-        "livingRoom": 0
-      },
-      "bedTypes": [
-        "킹 베드",
-        "싱글 베드"
-      ],
-      "amenities": [
-        "테라스",
-        "무료 WiFi",
-        "스마트 TV",
-        "냉장고",
-        "헤어드라이어",
-        "조리도구",
-        "식기류",
-        "전기포트",
-        "샴푸",
-        "린스",
-        "바디워시",
-        "OTT",
-        "풀빌라"
-      ],
-      "roomViews": [],
-      "roomStructures": [
-        "복층",
-        "독채"
-      ],
-      "status": "active",
-      "images": [
-        {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
-        }
-      ],
-      "displayOrder": 2
     }
   ],
   "homepage": {
