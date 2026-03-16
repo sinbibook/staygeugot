@@ -378,6 +378,27 @@ body .header-opened.expanded {
     opacity: 0;
     transform: translateY(-20px);
     transition: all 0.3s ease 0.2s;
+    overflow: auto;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(200, 200, 200, 0.5) transparent;
+}
+
+/* Webkit browsers (Chrome, Safari, Edge) */
+.header-opened-content::-webkit-scrollbar {
+    width: 4px;
+}
+
+.header-opened-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.header-opened-content::-webkit-scrollbar-thumb {
+    background: rgba(200, 200, 200, 0.5);
+    border-radius: 2px;
+}
+
+.header-opened-content::-webkit-scrollbar-thumb:hover {
+    background: rgba(200, 200, 200, 0.7);
 }
 
 .header-opened.expanded .header-opened-content {

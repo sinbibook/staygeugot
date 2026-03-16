@@ -1,1 +1,1 @@
-# staygeugot
+# template-full-banner-wipe
