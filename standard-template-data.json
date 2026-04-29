@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-03-27T05:11:51.626Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-04-29T07:08:23.550Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "242476ad-1be9-4395-b321-7398211db109",
     "homepageId": "5d43ec1a-e7ea-4042-86f9-6d63afe46027"
@@ -308,18 +308,35 @@
   "rooms": [
     {
       "id": "54fe3434-e9cf-4530-8659-9e5d4a0840a2",
+      "propertyId": "242476ad-1be9-4395-b321-7398211db109",
+      "propertyName": "강릉 스테이그곳 독채풀빌라",
       "name": "강릉 그곳 (독채풀빌라)",
+      "nameEn": "Gangneung Geugot (Private Pool Villa)",
       "description": "",
       "roomInfo": "복층독채형:\n- 1층: 거실(킹1)+주방+화장실1+야외풀\n- 2층 : 침대룸A(싱글2)+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 24개월 이상 1인당 30,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 92.56,
+      "sizePyeong": 28,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 2,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "킹 베드",
@@ -346,6 +363,7 @@
         "독채"
       ],
       "status": "active",
+      "bankAccountId": "716e4ff3-9e10-46d8-9cfd-69574b2ffde1",
       "images": [
         {
           "thumbnail": [],
@@ -353,7 +371,82 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-02-03T02:04:37.311Z",
+      "updatedAt": "2026-03-24T03:10:47.325Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+    },
+    {
+      "id": "85aea395-925c-4145-915f-66093e7e5229",
+      "propertyId": "242476ad-1be9-4395-b321-7398211db109",
+      "propertyName": "강릉 스테이그곳 독채풀빌라",
+      "name": "사천 그곳 (독채풀빌라)",
+      "nameEn": "Sacheon Geugot (Private Pool Villa)",
+      "description": "",
+      "roomInfo": "복층독채형:\n- 1층: 거실(킹1)+주방+화장실1+야외풀\n- 2층 : 침대룸A(싱글2)+화장실1",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 24개월 이상 1인당 30,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
+      "group": null,
+      "size": 92.56,
+      "sizePyeong": 28,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 2,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "bedTypes": [
+        "킹 베드",
+        "싱글 베드"
+      ],
+      "amenities": [
+        "테라스",
+        "무료 WiFi",
+        "스마트 TV",
+        "냉장고",
+        "헤어드라이어",
+        "조리도구",
+        "식기류",
+        "전기포트",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "OTT",
+        "풀빌라"
+      ],
+      "roomViews": [],
+      "roomStructures": [
+        "복층",
+        "독채"
+      ],
+      "status": "active",
+      "bankAccountId": "716e4ff3-9e10-46d8-9cfd-69574b2ffde1",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 2,
+      "createdAt": "2026-02-03T02:04:37.412Z",
+      "updatedAt": "2026-04-29T07:07:46.018Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94"
     }
   ],
   "homepage": {
@@ -428,7 +521,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": "스테이 그곳에서 쉼의 결을 완성하세요",
@@ -441,7 +536,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "Your Moment at 스테이, 그곳",
@@ -468,7 +565,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "\n강릉의 맑은 공기와 조용한 풍경 속에 자리한 스테이 그곳.\n각 동마다 프라이빗하게 구성된 공간에서 수영장과 바베큐를 즐기며\n동해 바다를 가까이 두고 특별한 하루를 완성해보세요."
+                "description": "\n강릉의 맑은 공기와 조용한 풍경 속에 자리한 스테이 그곳.\n각 동마다 프라이빗하게 구성된 공간에서 수영장과 바베큐를 즐기며\n동해 바다를 가까이 두고 특별한 하루를 완성해보세요.",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "스테이그곳 Preview",
@@ -516,11 +615,15 @@
                     "isSelected": true
                   }
                 ],
-                "description": "스테이그곳에서 다채로운 휴식의 순간을 미리 만나보세요."
+                "description": "스테이그곳에서 다채로운 휴식의 순간을 미리 만나보세요.",
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -751,7 +854,9 @@
             "isSelected": true,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "name": "강릉 스테이그곳 독채풀빌라",
+        "nameEn": "Gangneung Stay Geugot"
       },
       "roomtypes": [
         {
@@ -1093,6 +1198,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "5d43ec1a-e7ea-4042-86f9-6d63afe46027"
   }
 }
